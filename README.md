@@ -1,6 +1,6 @@
-# ReduxSimpleStarter
+# Youtube Video Search
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Course Project from [Redux](https://www.udemy.com/react-redux/)
 
 ### Getting Started
 
